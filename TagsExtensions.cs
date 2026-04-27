@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EnesShahn.Tags
+namespace ESF.Core.Tags
 {
     public static class TagsExtensions
     {

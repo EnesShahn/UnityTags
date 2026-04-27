@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace EnesShahn.Tags
+namespace ESF.Core.Tags
 {
     [DefaultExecutionOrder(-9000)]
     public abstract class Tag<T> : MonoBehaviour where T : ITag

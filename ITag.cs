@@ -1,4 +1,4 @@
-namespace EnesShahn.Tags
+namespace ESF.Core.Tags
 {
     public interface ITag
     {

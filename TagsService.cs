@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace EnesShahn.Tags
+namespace ESF.Core.Tags
 {
     internal static class TagsService
     {
